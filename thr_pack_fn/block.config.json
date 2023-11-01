@@ -3,8 +3,8 @@
   "name": "thr_pack_fn",
   "type": "function",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/devthalal/thr_pack.git",
+    "ssh": "git@github.com:devthalal/thr_pack.git",
     "branch": "block_thr_pack_fn"
   },
   "parentBlockIDs": [

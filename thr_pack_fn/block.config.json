@@ -1,0 +1,20 @@
+{
+  "blockId": "QpG1LCphSxndSLJ0iBdVk",
+  "name": "thr_pack_fn",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/devthalal/thr_pack.git",
+    "ssh": "git@github.com:devthalal/thr_pack.git",
+    "branch": "block_thr_pack_fn"
+  },
+  "parentBlockIDs": [
+    "IdsN5L5G60mzt9gFTP8kw"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}

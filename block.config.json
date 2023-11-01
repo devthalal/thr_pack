@@ -1,0 +1,21 @@
+{
+  "name": "thr_pack",
+  "type": "package",
+  "blockId": "IdsN5L5G60mzt9gFTP8kw",
+  "source": {
+    "https": "https://github.com/devthalal/thr_pack.git",
+    "ssh": "git@github.com:devthalal/thr_pack.git",
+    "branch": "block_thr_pack"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "thr_pack_fn": {
+      "directory": "thr_pack_fn"
+    }
+  }
+}
